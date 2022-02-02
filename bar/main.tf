@@ -1,3 +1,3 @@
 output "bar_dir" {
-  value = "hello from bar directory. a"
+  value = "hello from bar directory. aa"
 }
